@@ -1,0 +1,6 @@
+{
+  "name": "Moto Speed",
+  "description": "High-level PC and mobile superbike speed racing game featuring high-speed 350+ km/h highway riding, wheelies, nitro boost, keyboard PC controls, and cinematic high-level backgrounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
